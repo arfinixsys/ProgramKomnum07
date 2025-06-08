@@ -1,6 +1,9 @@
 # Program Komnum Newton-Gregory Backwards, versi Differensial.
 Tugas final project komnum 2025
 
+## Nama : Arya Raka Firmansyah
+## NRP : 5053241007
+## Kelompok : R07
 
 ---
 
