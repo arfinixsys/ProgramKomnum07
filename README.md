@@ -122,4 +122,8 @@ Memanggil Fungsi dan Mencetak hasil akhir.
 ```
 result = derivative_ng_backward_verbose(nilai_X, nilai_Y, x0, x)
 print(f"\nHasil akhir turunan f'({x}) ≈ {result}")
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> aa615cf59a3257104b13fa3bb1c634cfd8a4aab9
